@@ -105,7 +105,7 @@ const ProtectedRoute = ({children}) => {
             <Content className="site-layout">
                 <div style={{ padding: 24, minHeight: 380, background: colorBgContainer }}>{ children }</div>
             </Content>
-            <Footer className='fs-12' style={{ textAlign: 'center' }}>BookMyShow ©2023 Created by Ved Prakash</Footer>
+            <Footer className='fs-12' style={{ textAlign: 'center' }}>BookMyShow ©2024 Created by Minhaz Qureshi</Footer>
         </Layout>
         </>
     );
